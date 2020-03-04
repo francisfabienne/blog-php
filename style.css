@@ -1,0 +1,30 @@
+html{
+	background-color : #fff;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+form {
+	position: absolute;
+	display: block;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+    background-color: #D3D3D3;
+	border: 1px solid indigo;
+	padding: 55px;
+	border-radius: 15px;
+}
+
+input {
+	padding: 13px;
+	border-radius: 15px;
+}
+
+textarea {
+	border-radius: 15px;
+}
